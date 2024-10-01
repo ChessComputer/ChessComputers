@@ -1,1 +1,1 @@
-# ChessComputer
+# ChessComputers
